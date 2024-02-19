@@ -41,7 +41,7 @@
                                                 <rect key="frame" x="211" y="0.0" width="122" height="34"/>
                                                 <color key="backgroundColor" white="0.63" alpha="1" colorSpace="calibratedWhite"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
-                                                <textInputTraits key="textInputTraits"/>
+                                                <textInputTraits key="textInputTraits" keyboardType="numberPad"/>
                                             </textField>
                                         </subviews>
                                     </stackView>
